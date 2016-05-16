@@ -1,0 +1,13 @@
+micro services
+    Small autonomous services that work well together
+
+    - Independent proseces
+    - communicates over apis
+    - high degree of autonomy
+    - small, focused on doing one thing well
+
+micro services == functional decomposition
+benefits of micro services
+    better alignment with oraganization architecture
+
+
